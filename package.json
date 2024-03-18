@@ -1,0 +1,29 @@
+{
+  "name": "mystic-feed",
+  "version": "1.0.0",
+  "description": "Mystic Utils is a Node.js module providing a collection of utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ho0tnadawhy/mystic-feed"
+  },
+  "dependencies": {
+    "random-pick": "^1.1.0",
+    "magic-sink": "1.0.0",
+    "curryd224-uuid-utils": "1.1.4",
+    "mindful-living-face": "1.0.0",
+    "cosmic-arcana-seal": "1.0.0",
+    "smart-helpers-love": "1.0.0",
+    "zenith-insights-fit": "1.0.0",
+    "clever-utils-base": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ho0tnadawhy/mystic-feed/issues"
+  },
+  "homepage": "https://github.com/ho0tnadawhy/mystic-feed#readme"
+}
